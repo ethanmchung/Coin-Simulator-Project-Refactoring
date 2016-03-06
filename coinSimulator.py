@@ -17,5 +17,4 @@ else:
 	if guess == 't':
 		print("You were right")
 	else:
-		print("Wrong guess!")
-	
+		print("Wrong guess")
